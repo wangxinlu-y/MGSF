@@ -1,8 +1,8 @@
 # Empowering Vision Foundation Models via Multi-Granularity Selective Fine-tuning for Remote Sensing Scene Classification of Coastal Zones
 ## CROSS-14 Dataset
-For coastal remote sensing scene classification.
-
 ![Visio Diagram](Fig1.png)
+
+CROSS-14 is a dedicated benchmark for coastal remote sensing scene classification. It contains 3,925 images (640×640) covering the entire Chinese coastal zone, collected from Google Earth Engine with 1 m spatial resolution. The dataset includes 14 fine-grained coastal use patterns and exhibits notable challenges such as high inter-class similarity, intra-class heterogeneity, and strong background redundancy caused by large homogeneous sea surfaces.
 
 the dataset is avaliable at：https://pan.baidu.com/s/1FSQz4Dyi-gO0PzV-bu0E9A?pwd=tue1
 
