@@ -7,6 +7,9 @@ CROSS-14 is a dedicated benchmark for coastal remote sensing scene classificatio
 the dataset is avaliable at：https://pan.baidu.com/s/1FSQz4Dyi-gO0PzV-bu0E9A?pwd=tue1
 
 The link of Google griver: https://drive.google.com/file/d/1tQFQQXOCkb-2iaF0NhB9u_O45db04HkD/view?usp=sharing
+##MGSF
+
+![Visio Diagram](Fig2.png)
 
 ## How to run
 1. Run `train_linear.py` for linear probing.  
